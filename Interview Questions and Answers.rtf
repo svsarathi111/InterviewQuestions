@@ -1,0 +1,145 @@
+MVC
+	MVC life cycle -> Request>Routing table>Controller INtialization>ActionExecution>Rendering view
+	How will you apply filters in MVC
+	Strongly typed view in MVC
+	Can we send model to view
+	Can we send file as ActionResult
+	Types of Filters
+	Types of Routing
+	What will be needed for Attribute Routing
+	How will you use different name for Action Method - 
+    Ans: yes, with the help of Action Name attr
+	Which Filter will be executed first 
+    Ans: Authorization and Authentication filters will execute first
+	View data and View bag difference
+    Ans: https://github.com/svsarathi111/InterviewQuestions/new/main
+Entity Framework 
+	How will you get the data from emp table from DB
+	Lambda exp to get emp id =100 data
+	First vs FirstOrDefault
+    Ans: First will thorw an error when no data where as FirstOrDefualt will retun null as default value
+	Single vs SingleOrDefault	
+    Ans: Single will thorw an error when no data where as SingleOrDefault will retun null as default value
+.Net core
+	How Dependency Injection will be implemented	
+	Configure Services?	
+ADO.Net
+	How to call Stored procedure
+	2 SPs there one returns nothing and other returns some data - what to be called
+	Execular Scalar, Non-query and 
+SQL
+	Execution plan in SQL
+	Joins inner join and left outer join
+	SP performance improvement
+	SP vs functions 
+		SP -> 0-many resul, can use txn, in and out param, can't used in select/where/having clause, can call func inside SP, try used
+		Func -> 1 result, no txn, only input param, can used in select/where/having clause, can't call SP inside fun, try block can't uesd
+	Composite Key -> Primary key with more than one column involved
+	Index - types? Clustered and Non clustered
+		Clustered -> one per table, faster, less memory,  
+		Non- clus -> multiple, slower than clust, more memory as separate storage to store the index
+	How many clustered index for a table? one but can be with multiple columns
+	Triggers -types
+	Views --> simple and complex view, Materialized view will update table data
+	write query to find even/odd number rows based on id --> use modulo for id column/Rownum column)
+	Query to Join tables (inner vs left outer join)
+	Query to get India at the top of the list from Countries table
+	Delete duplicates from a table
+	truncate and delete --> Truncate (DDL) faster, removes all records, less logs, Delete(DML)
+	normalization and denormalization
+	sql injection attacks  -->(Union, Error) prevented by using SP, parameterized query, input validation
+	DDL, DML, TCL?
+	RowNumber, Rank and DenseRank --> RN(with or w/o partition), Rank(unique num but not continous), DR(same as Rank but conti)
+	ACID properties --> used by SQL - Atomicity(no partial txn), Consistency(guarntee of txn) , Isolation(Independent txn), Durability(data never loss)
+	CAP properties --> used by NoSQL - Consistency(same data at same time), Availability(every request recieve response), Partition tolerance(sys continues to perform)
+WebAPI
+	How JWT token works
+	HTTP verbs GET vs Post vs Put
+		GET -> can be cached, params remains in history, restriction on sending data to 2048 char, ASCII not allowed, less secured, data will be visible in url
+		POST -> can't be cached, params not stored in hisstory, no restriction on data size, all char even binary allowed, little safer than GET, data not visibe in url
+		PUT -> idempotent i.e unchanged or unaltered response u will get, unsafe and used for modifying data
+	Rest vs SOAP
+		REST -> it is a statndard not a protocol, uses url, http, json and xml, more efficient, no build in error handling or security
+		SOAP -> it's a protocol, uses http and xml, efficient but not as REST, build in error handling and security mechanism
+	Stateless and Stateful services
+		Stateless -> REST API are always stateless, no need of remembering prev request details
+.Net 
+	Managed and Unmanaged code
+	Reference type and value type, is string value type?no
+	String vs StringBuilder
+	how to read string from Stringbuilder -> .ToString()
+	Readonly and Const difference -->RO can be decalred runtime, Const only on compile
+	overloading and overriding
+	virtual keyword
+	async and await 
+	await in Main method?
+	try catch - final?
+	try without catch? yes, with just finally
+	Sessions in Asp.Net
+	Different types of cache
+	Write a program to find second largest num in an array
+	Write a program to create multidim array from single dim array
+	Abstract and Interface
+	Can we have method with virtual keyword in Abstract class
+	Interface - Access modifiers
+	var and dynamic keyword 	
+	ASP.Net identity?
+	Call stack and Stacktrace	
+	IEnumerable vs IList vs IQueryable vs ICollection
+	Static and private construtor 
+	other way(other than Sealed keyword) to restrict a class to inherit from - use private construtor
+	ref and out parametrs
+	Convert.ToInt vs int parse
+	Array and List
+	Finalize and Dispose -> Finalize is implicit we can't invoke
+	Linq and Lambda
+	Web exception
+	Delegates and events
+	Types of classes
+	Multi threading
+	Task vs Thread vs Process
+	GAC - Global Assembly cache ->.Net Assembly shared by all applications executed on a system
+.Net Concepts
+	Design Principles - SOLID
+	Design Patterns - types - Singleton, Strategy
+	Repository Pattern
+	Lazy Loading
+	Thread Safety
+	Circular referencing
+	Garbage collection
+	Reflection
+	how to handle huge number of hits at a same time in a website
+	Architecture - SOA, Onion, Clean
+Jquery
+	Async and Await
+	Promise
+	Callback method? why we need?
+	Alternate to callback method?
+	Ajax
+	Server side and client side functions?
+Azure
+	Service bus 
+	Key vault
+	App Insights - Auto scale?
+	Functions 
+	Types of triggers in Functions
+	Scenario - from a file to process each row and send a mail - what are the Azure components required?
+	Azure Kubernetes
+	SSO?
+	Azure AD?
+	Queues and Topics 
+	Azure traffic manager
+	how scerets maintained - Key vault
+	user and system generated scerets
+	throw and throw ex
+	Resources
+Requirement Gathering
+	Scenario - to build a App to reserve meeting hall
+Diplomatic questions
+	Challenges that you faced in your projects and how you solved them
+	When an issue reported, how will you identify and resolve it
+	What will you expect from an Organization 
+	What will be applicable for working as Team or individual
+
+
+
