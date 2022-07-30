@@ -1,1 +1,247 @@
 
+Interview questions
+
+.Net - Part 1.
+
+Question 1 :- Explain difference between .NET and C# ?
+Question 2 :- .NET Framework vs .NET Core vs .NET 5.0
+Question 3 :- What is IL ( Intermediate Language) Code ?
+Question 4 :- What is the use of JIT ( Just in time compiler) ?
+Question 5 :- Is it possible to view IL code ?
+Question 6 :- What is the benefit of compiling in to IL code ?
+Question 7 :- Does .NET support multiple programming languages ?
+Question 8 :- What is CLR ( Common Language Runtime) ?
+Question 9 :- What is managed and unmanaged code ?
+Question 10 :- Explain the importance of Garbage collector ?
+Question 11 :- Can garbage collector claim unmanaged objects ?
+Question 12 :- What is the importance of CTS ?
+Question 13 :- Explain CLS ?
+Question 14 :- Difference between Stack vs Heap ?
+Question 15 :- What are Value types & Reference types?
+Question 16 :- Explain boxing and unboxing ?
+Question 17 :- What is consequence of boxing and unboxing ?
+Question 18 :- Explain casting, implicit casting and explicit casting ?
+Question 19 :- What can happen during explicit casting ?
+Question 20 :- Differentiate between Array and ArrayList ?
+Question 21 :- Whose performance is better array or arraylist ?
+Question 22 :- What are generic collections ?
+Question 23 :- What are threads (Multithreading)?
+Question 24 :- How are threads different from TPL ?
+Question 25 :- How do we handle exceptions in C#(try/catch)?
+Question 26 :- What is the need of finally?
+Question 27 :- Why do we need the out keyword ?
+Question 28 :- What is the need of Delegates ?
+Question 29 :- What are events ?
+Question 30 :- Whats the difference between Abstract class and interface ?
+
+C# Interview Questions & Answers - Part 2.
+
+Question 31 - What is a Delegate and how to create a Delegate?
+Question 32 - Where have you used Delegates?
+Question 33 - What is a Multicast Delegates?
+Question 34 - What is an Event?
+Question 35 - How to Create an Event?
+Question 36 - Delegate VS Events.
+
+C# Interview Questions & Answers - Part 3.
+
+Question 37 :- What is a class and object ?
+Question 38 :- Abstraction vs Encapsulation?
+Question 39 :- Explain Inheritance ?
+Question 40 :- Explain virtual keyword ?
+Question 41 :- What is overriding ?
+Question 42 :- Explain overloading ?
+Question 43 :- Overloading vs Overriding ?
+
+C# Interview Questions & Answers - Part 4.
+
+Question 44 :- What is polymorphism ?
+Question 45 :- Can polymorphism work with out inheritance ?
+Question 46 :- Explain static vs dynamic polymorphism ?
+Question 47 :- Explain operator overloading ?
+
+C# Interview Questions & Answers - Part 5.
+
+Question 48 :- Why do we need Abstract classes ?
+Question 49 :- Are Abstract methods virtual ?
+Question 50 :- Can we create a instance of Abstract classes ?
+Question 51 :- Is it compulsory to implement Abstract methods ?
+Question 52 :- Why simple base class replace Abstract class ?
+Question 53 :- Explain interfaces and why do we need it ?
+Question 54 :- Can we write logic in interface ?
+Question 55 :- Can we define methods as private in interface ?
+Question 56 :- If i want to change interface whats the best practice ?
+Question 57 :- Explain Multiple inheritance in Interface ?
+Question 58 :- Explain Interface Segregation principle ?
+Question 59 :- Can we create instance of interface ?
+Question 60 :- Can we do Multiple inheritance with Abstract classes ?
+
+C# Interview Questions & Answers - Part 6.
+
+Abstract Class vs interface interview questions and answers.
+
+C# Interview Questions & Answers - Part 7.
+
+Question 62  :- Why do we need constructors ?
+Question 63  :- In parent child which constructor fires first ?
+Question 64  :- How are initializers executed ?
+Question 65  :- How are static constructors executed in Parent child ?
+Question 66  :- When does static constructor fires ?
+C# interview questions with answers PDF.
+
+Angular Interview Questions & Answers :-
+
+25 basics interview Q & A on Angular - Part 1
+Question no: 1 :- Whats the use of Angular ?
+Question no: 2 :- What are directives in Angular ?
+Question no: 3 :- Explain the different types of Angular directives ?
+Question no: 4 :- Explain the importance of NPM and Node_Modules folder ?
+Question no: 5 :- Explain the importance of Package.json file in Angular ?
+Question no: 6 :- What is typescript and why do we need it ?
+Question no: 7 :- Explain importance of Angular CLI ?
+Question no: 8 :- Explain the importance of Component and Modules ?
+Question no: 9 :- What is a decorator in Angular ?
+Question no: 10 :- What are Annotationa or MetaData ?
+Question no: 11 :- What is a template ?
+Question no: 12 :- Explain the four types of Data bindings in Angular ?
+Question no: 13 :- Explain architecture of Angular ?
+Question no: 14 :- What is SPA in Angular ?
+Question no: 15 :- How to implement SPA in Angular ?
+Question no: 16 :- How to implement routing in Angular ?
+Question no: 17 :- Explain Lazy Loading ?
+Question no: 18 :- How to implement Lazy Loading in Angular ?
+Question no: 19 :- Define Services ?
+Question no: 20 :- What is Depedency Injection ?
+Question no: 21 :- How to implement Depedency Injection ?
+Question no: 23 :- Whats the benefit of Depedency Injection ?
+Question no: 24 :- Differentiate between ng serve and ng build ?
+Question no: 25 :- Explain the --prod parameter in ng build ?
+
+Angular Interview Questions and Answers - Part 2
+
+Questions No:- 26 :- Explain ViewChild and ViewChildren?
+Questions No:- 27 :- Why do we need Template reference variables?
+Questions No:- 28 :- What is ContentProjection?
+Questions No:- 29 :- Explain Content projection Slot?
+Questions No:- 30 :- What is ContentChild and ContentChildren?
+Questions No:- 31 :- ViewChild vs ViewChildren vs ContentChild vs ContentrChildren?
+
+Angular interview questions & answers - Part 3
+
+Questions No:- 32 :- Explain the importance of Component life cycle ?
+Questions No:- 33 :- Explain events and sequence of component life cycle ?
+Questions No:- 34 :- Constructor vs ngOnInit() ?
+
+Angular Interview Questions and Answers - Part 4
+
+Questions No:- 35 :- How to make HTTP calls using Angular ?
+Questions No:- 36 :- What is the need of Subscribe function ?
+Questions No:- 37 :- How to handle errors when HTTP fails ?
+Questions No:- 38 :- How to pass data between components ?
+Questions No:- 39 :- Explain importance of input, output & event emitters ?
+Questions No:- 40 :- How to pass during routing ?
+Questions No:- 41 :- Is it a good practice to pass data using services ?
+
+Angular Interview Questions and Answers - Part 5
+
+Question No: 42:- What is the need of Angular Pipes?
+Question No: 43:- Can you name some built-in Angular Pipes?
+Question No: 44:- How to create Custom pipes in Angular?
+
+Angular Interview Questions and Answers - Part 6
+
+Question no: 45 :- Whats the full form of RxJs?
+Question no: 46 :- What is the purpose of RxJs?
+Question no: 47 :- What are observables and observers?
+Question no: 48 :- Explain the use of Subscribe with sample code.
+Question no: 49 :- How to unsbscribe in RxJs?
+Question no: 50 :- Explain concept of operators with sample code.
+Question no: 51 :- How to install RxJs?
+Question no: 52 :- Differentiate between promise and RxJs?
+Question no: 53 :- In Angular where have you used RxJs?
+Question no: 54 :- Which operators have you used from RxJs?
+Question no: 55 :- What is Push/reactive vs Pull/Imperative?
+
+ASP.NET MVC Interview Questions with answers :-
+
+ASP.NET MVC Interview Questions with answers - Part 1.
+
+Question 1 :- What is ASP .NET MVC Core ?
+Question 2 :- Differentiate between ASP .NET Webforms vs MVC vs MVC core ?
+Question 3 :- Explain MVC Architecture ?
+Question 4 :- Why do we have wwwroot folder ?
+Question 5 :- Explain the importance of appsettings.json ?
+Question 6 :- How to read configurations from appsettings.json ?
+Question 7 :- What is dependency injection ?
+Question 8 :- Why do we need dependency injection ?
+Question 9 :- How do we implement dependency injection ?
+Question 10 :- What is the use of Middleware ?
+Question 11 :- How to create a Middle ware ?
+Question 12 :- What does startup.cs file do ?
+Question 13 :- ConfigureServices vs Configure method ?
+Question 14 :- Explain the different Ways of doing DI?
+Question 15 :- Explain Scoped vs Transient vs Singleton ?
+Question 16 :- What is Razor ?
+Question 17 :- How to pass Model data to a View ?
+Question 18 :- What is the use of Strongly typed views ?
+Question 19 :- Explain the concept of ViewModel in MVC ?
+Question 20 :- What is Kestrel Web Server ?
+Question 21 :- Why Kestrel when we have IIS server ?
+Question 22 :- What is the concept of Reverse proxy ?
+Question 23 :- What are cookies ?
+Question 24 :- What is the need session management ?
+Question 25 :- What are the various ways of doing Session management in ASP.NET ?
+
+ASP.NET MVC Interview Questions with answers - Part 2.
+
+Question 26 :- What exactly is a session ?
+Question 27 :- Explain "HTTP is a stateless protocol" ?
+Question 28 :- What are various way of doing session management ?
+Question 29 :- Are sessions enabled by default ?
+Question 30 :- How to enable sessions in MVC core ?
+Question 31 :- Are sessions variables shared(global) between users ?
+Question 32 :- Do session variables use cookies ?
+Question 33 :- What is a cookie ?
+Question 34 :- Explain idle time out in sessions ?
+Question 35 :- What does a Context means in HTTP ?
+
+ASP.NET MVC Interview Questions with answers - Part 3.
+
+Question 36 :- When should we use viewdata ?
+Question 37 :- How to pass data from controller to view ?
+Question 38 :- In same request can viewdata persist across actions ?
+Question 39 :- ViewData vs ViewBag
+Question 40 :- How does ViewBag work internally?
+Question 41 :- Explain ViewModel?
+Question 42 :- ViewBag vs ViewModel whats the best practice?
+
+ASP.NET MVC Interview Questions with answers - Part 4.
+
+Question 43 :- Explain tempdata ?
+Question 44 :- Can tempdata persist across action redirects ?
+Question 45 :- How is tempdata different from viewdata ?
+Question 46 :- If tempdata is read is it available for next request ?
+Question 47 :- How to persist tempdata ?
+Question 48 :- What does Keep do in tempdata ?
+Question 49 :- Explain Peek in tempdata ?
+Question 50 :- How is tempdata different from session variables ?
+Question 51 :- If i restart the server does tempdata,session stay ?
+Question 52 :- Is tempdata private to a user ?
+Question 53 :- ViewData vs ViewBag vs Tempdata vs Session variables?
+
+ASP.NET MVC Interview Questions with answers - Part 5.
+
+Question 54 :- What is WebAPI ?
+Question 55 :- What is the advantage of WebAPI ?
+Question 56 :- Explain REST and Architectural constraints of REST?
+Question 57 :- Can we use TCPIP protocol with Web API?
+Question 58 :- How WebAPI different from MVC controller ?
+Question 59 :- What is content negotiations in Web API ?
+Question 60 :- WebAPI vs WCF ?
+Question 61 :- WCF REST vs WebAPI REST ?
+Question 62 :- How to return HTTP status codes ?
+Question 63 :- For error which status code is returned ?
+Question 64 :- How did you secure your web API ?
+Question 65 :- How do current JS frameworks work with webAPI ?
+Question 66 :- How did you implement JWT token security ?
+
